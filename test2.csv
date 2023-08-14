@@ -1,7 +1,7 @@
 id,label,parent,value
-pass,pass,,10
-fail,fail,,6
-fail-a,a,fail,1
-fail-a,a,fail,2
-fail-a,a,fail,3
-pass-a,a,pass,10
+pass,pass,,24421201
+fail,fail,,1213581
+fail-a,a,fail,100
+fail-a,a,fail,80
+fail-a,a,fail,1213401
+pass-a,a,pass,24421201
